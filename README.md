@@ -1,0 +1,1 @@
+Este entregable consiste en 2 scripts realizados en Bash, los cuales tienen como objetivo escanear los puertos abiertos de algún dominio o ip deseado, y de moniterear el uso de la red, en ambos casos dando la posibilidad de generar un reporte que se guardará en su respectiva carpeta segúnn el script ejecutado
